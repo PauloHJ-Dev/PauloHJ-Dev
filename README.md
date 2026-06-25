@@ -1,6 +1,14 @@
 # 👨‍💻 Paulo Henrique
 
-### Tecnologias
+### 📌 Sobre mim
+
+* 🎓 Estudante de **Informática para Internet** na **Etec Antonio Furlan**
+* 💻 Focado em **desenvolvimento web** e criação de soluções digitais
+* 🚀 Atualmente estudando e aprimorando conhecimentos em **HTML, CSS, JavaScript e PHP**
+* 📚 Buscando evolução constante na área de tecnologia e programação
+* 🎯 Objetivo de me especializar em **Engenharia de Software** e desenvolver projetos inovadores
+
+### 🛠️ Tecnologias
 
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
@@ -20,6 +28,7 @@
   </a>
 </p>
 
-### Contato
+### 📫 Contato
 
-📫 pauloh081033@gmail.com
+* 🌐 GitHub: github.com/PauloHJ-Dev
+* ✉️ E-mail: pauloh081033@gmail.com
