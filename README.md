@@ -3,7 +3,6 @@
 ### 📌 Sobre mim
 
 * 🎓 Estudante de **Informática para Internet** na **Etec Antonio Furlan**
-* 💻 Focado em **desenvolvimento web** e criação de soluções digitais
 * 🚀 Atualmente estudando e aprimorando conhecimentos em **HTML, CSS, JavaScript e PHP**
 * 📚 Buscando evolução constante na área de tecnologia e programação
 * 🎯 Objetivo de me especializar em **Engenharia de Software** e desenvolver projetos inovadores
